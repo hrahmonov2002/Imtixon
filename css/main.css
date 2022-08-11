@@ -1,0 +1,14 @@
+body {
+    background-image: url(../images/pizza.png.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 800px;
+}
+
+.size__span:hover {
+    background-color: brown;
+}
+
+.size__span:active {
+    background-color: brown;
+    opacity: 0.6;
+}
